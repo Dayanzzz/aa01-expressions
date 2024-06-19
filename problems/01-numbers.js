@@ -10,7 +10,7 @@ let num4 = 10;
 
 // 1. Set the value of expression1 to num2 plus num1.
 
-let expression1;
+let expression1 = num2 + num1
 
 console.log(expression1); //=> 7
 
